@@ -1,4 +1,4 @@
-# Repositório usado para analise da disciplina leitura de Software.
+# Repositório usado para analise estatica da disciplina leitura de Software.
 
 # Java-NFe [![Build Status](https://travis-ci.org/Samuel-Oliveira/Java_NFe.svg?branch=master)](https://travis-ci.org/Samuel-Oliveira/Java_NFe)
 Projeto Para implementação do Java-Nfe Utilizando JAXB.
